@@ -1,0 +1,11 @@
+customer_id,camera_id,alert_id,alert_type,object,start_time,duration,video_url
+1,1,1,object not moving,orange bag,1718323320,600,https://s3/video1
+1,2,2,object not moving,orange bag,1718324320,500,https://s3/video2
+1,1,3,object not moving,orange bag, 1718325320,400,https://s3/video3
+1,4,4,object not moving,orange bag, 1718326320,300,https://s3/video4
+1,1,5,object not moving,orange bag, 1718328320,200,https://s3/video5
+1,1,6,object missing,orange bag, 1718325720,200,https://s3/video6
+1,3,7,object missing,orange bag, 1718326720,250,https://s3/video7
+1,5,8,object missing,orange bag, 1718327720,290,https://s3/video8
+1,1,9,object missing,orange bag, 1718329720,900,https://s3/video9
+2,1,10,object misiing,chair,1718332720,600,https://s3/video10
